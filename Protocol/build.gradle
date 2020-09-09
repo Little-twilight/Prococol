@@ -2,8 +2,7 @@ apply plugin: 'java-library'
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    api 'apache-codec:commons-codec:1.2'
-    api 'com.google.guava:guava:28.0-android'
+    api 'com.github.Little-twilight:JavaUtils:master-SNAPSHOT'
 }
 
 sourceCompatibility = "8"

@@ -94,4 +94,8 @@ public class AbsParserBuffer {
         mCachedBytesRangeSize -= skip;
     }
 
+    public void clear() {
+        mCachedBytesRangeSize = 0;
+    }
+
 }
