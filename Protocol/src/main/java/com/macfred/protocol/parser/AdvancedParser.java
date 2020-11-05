@@ -1,6 +1,6 @@
-package com.zhongyou.protocol.parser;
+package com.macfred.protocol.parser;
 
-import com.zhongyou.protocol.PacketDescriptor;
+import com.macfred.protocol.PacketDescriptor;
 
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.locks.ReadWriteLock;

@@ -2,7 +2,7 @@ apply plugin: 'java-library'
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    api 'com.github.Little-twilight:JavaUtils:master-SNAPSHOT'
+    api 'com.github.Little-twilight:JavaUtils:V0.1'
 }
 
 sourceCompatibility = "8"

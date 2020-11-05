@@ -1,4 +1,4 @@
-package com.zhongyou.protocol;
+package com.macfred.protocol;
 
 public interface PacketDescriptor {
     int getPacketMaxSize();

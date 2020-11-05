@@ -1,6 +1,7 @@
-package com.zhongyou.protocol.parser;
+package com.macfred.protocol.parser;
 
-import com.zhongyou.util.ref.BiRef;
+
+import com.macfred.util.ref.BiRef;
 
 import java.io.UnsupportedEncodingException;
 import java.nio.charset.Charset;

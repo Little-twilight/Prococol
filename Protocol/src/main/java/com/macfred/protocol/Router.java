@@ -1,4 +1,4 @@
-package com.zhongyou.protocol;
+package com.macfred.protocol;
 
 import java.util.Collection;
 import java.util.HashMap;

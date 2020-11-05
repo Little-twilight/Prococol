@@ -1,8 +1,8 @@
-package com.zhongyou.protocol.parser;
+package com.macfred.protocol.parser;
 
 
-import com.zhongyou.protocol.FieldDescription;
-import com.zhongyou.protocol.PacketDescriptor;
+import com.macfred.protocol.FieldDescription;
+import com.macfred.protocol.PacketDescriptor;
 
 import java.util.ArrayList;
 import java.util.List;

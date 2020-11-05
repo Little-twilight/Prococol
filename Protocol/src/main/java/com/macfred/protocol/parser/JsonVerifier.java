@@ -1,4 +1,4 @@
-package com.zhongyou.protocol.parser;
+package com.macfred.protocol.parser;
 
 public interface JsonVerifier {
 
